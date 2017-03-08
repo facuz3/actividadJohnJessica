@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         Echo'Jaime Pedrajas->John Facundo Zabaleta->Jessica';
+        Echo'Copyrigth 2017';
         ?>
     </body>
 </html>
