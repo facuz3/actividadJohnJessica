@@ -11,11 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-<<<<<<< HEAD
-        echo "Copyright 2017";
-=======
-        Echo'Jaime Pedrajas->John Facundo Zabaleta->Jessica';
->>>>>>> origin/master
+        echo "Jaime Pedrajas(Gandia), Facundo Zabaleta(Gandia).";
+       
         ?>
     </body>
 </html>
