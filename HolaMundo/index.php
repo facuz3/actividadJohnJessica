@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "Jaime Pedrajas(Gandia), Facundo Zabaleta(Gandia).";
-       
+        echo "© Copyright 2017";
         ?>
     </body>
 </html>
