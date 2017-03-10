@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        Echo'Jaime Pedrajas->John Facundo Zabaleta->Jessica';
+        Echo'Jaime Pedrajas(Gandia) Facundo Zabaleta(Gandia)';
         ?>
     </body>
 </html>
